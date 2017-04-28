@@ -1,0 +1,26 @@
+{
+  "name": "app-basic",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenec01/app-basic.git"
+  },
+  "author": "kenec01",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kenec01/app-basic/issues"
+  },
+  "homepage": "https://github.com/kenec01/app-basic#readme",
+  "devDependencies": {
+    "eslint": "^3.15.0"
+  },
+  "dependencies": {
+   "immutable":"*",
+    "timeengine": "^6.5.1"
+  }
+}
